@@ -1,5 +1,5 @@
 # SSAMS
-Unknown Face Recognition and Attendance System. It recognizes the unknown people and send an alert email message to concerned authority. It can also be used as attendance system whoch mark attendance of students by recognizing face of students that are already registered in the database.
+Unknown Face Recognition and Attendance System. It recognizes the unknown people and send an alert email message to concerned authority. It can also be used as attendance system which mark attendance of students by recognizing face of students that are already registered in the database.
 # Steps
 1. Download Weights Keras.h5 from following link and keep it in Models Folder
 https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn
